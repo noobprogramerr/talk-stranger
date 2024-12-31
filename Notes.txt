@@ -1,0 +1,13 @@
+1. Url For ui :- https://dribbble.com/shots/1587373-Linkedin/attachments/245093?mode=media
+
+Fronted :- npm start    | |    Backend :- npm run dev  
+
+Package :- 
+1. react-router-dom.
+2. react-icons.
+3. tailwind css.
+
+Backend package :- 
+1. npm i bcryptjs - for encrypt password in hash form.
+2. npm i morgan :- to known about route types like get ,post etc..
+3. npm i --save express-session cookie-parser jsonwebtoken 

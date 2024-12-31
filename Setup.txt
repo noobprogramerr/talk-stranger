@@ -1,0 +1,12 @@
+1. create client folder.
+
+
+2. create backend folder :-
+-> install express 
+-> nodemon
+->install mongoose :- for mongoDB dataBase.
+-> create a userSchema by creating a model folder.
+-> npm i bcryptjs - for encrypt password in hash form.
+-> Handle Error By Creating middleware inside app.js and also handle error by  creating custom function;
+-> Create middleware to handle error and also solve the repetation of try and catch . It have catchAsyncError to handle the try and catch.
+-> npm i imagekit and express-fileupload to store image of profile and post on imagekit website.
